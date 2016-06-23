@@ -33,10 +33,10 @@ namespace LibraryProject
             Console.WriteLine();
         }
 
-        ////demo inheritance method
-        //public virtual void testMethod()
-        //{
-        //    Console.Write("This is contained in the book class");
-        //}
+        //demo polymorphic method
+        public virtual void getTypeOfBook()
+        {
+            Console.WriteLine("Book not currently catalogued");
+        }
     }
 }

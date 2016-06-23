@@ -10,3 +10,9 @@ C:\Users\student\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\o
 C:\Users\student\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
 C:\Users\student\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
 C:\Users\student\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojResolveAssemblyReference.cache
+C:\Users\Bungle\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\Bungle\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\Bungle\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\Bungle\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\Bungle\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\Bungle\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojResolveAssemblyReference.cache
