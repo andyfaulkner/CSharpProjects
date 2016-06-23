@@ -12,10 +12,10 @@ namespace LibraryProject
         public string contentReference;
 
         //constructor for fiction books
-        public nonFiction(string _title, string _author, string _synopsis, long _isbn, string _contentReference) : base (_title, _author, _synopsis, _isbn)
+        public nonFiction(string _title, string _author, string _synopsis, long _isbn,
+            string _contentReference) : base (_title, _author, _synopsis, _isbn)
         {
             this.contentReference = _contentReference;
         }
-
     }
 }

@@ -4,3 +4,9 @@ C:\Users\Bungle\Documents\GitHub\CSharpLessons\LibraryProject\LibraryProject\bin
 C:\Users\Bungle\Documents\GitHub\CSharpLessons\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
 C:\Users\Bungle\Documents\GitHub\CSharpLessons\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
 C:\Users\Bungle\Documents\GitHub\CSharpLessons\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\student\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\student\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\student\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\student\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\student\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\student\Documents\GitHub\CSharpProjects\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojResolveAssemblyReference.cache
