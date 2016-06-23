@@ -32,5 +32,11 @@ namespace LibraryProject
         {
             Console.WriteLine();
         }
+
+        ////demo inheritance method
+        //public virtual void testMethod()
+        //{
+        //    Console.Write("This is contained in the book class");
+        //}
     }
 }

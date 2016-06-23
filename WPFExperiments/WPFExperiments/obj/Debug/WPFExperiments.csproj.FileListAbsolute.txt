@@ -1,0 +1,1 @@
+C:\Users\student\Documents\GitHub\CSharpProjects\WPFExperiments\WPFExperiments\bin\Debug\WPFExperiments.exe.config
